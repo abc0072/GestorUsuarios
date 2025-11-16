@@ -13,7 +13,7 @@ Derecha con JTabbedPane
 
 Barra inferior con 3 botones alineados a la derecha
 
-2. Árbol de contenedores (basado en tu .form real)
+2. Árbol de contenedores
 JFrame (BorderLayout)
  ├─ NORTH: headerPanel (FlowLayout)
  │    └── JLabel “Gestor de Usuarios”
