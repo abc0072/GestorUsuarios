@@ -5,7 +5,7 @@
 👉 Pon aquí tu foto. Yo describo lo que debes mostrar:
 
 
-##Árbol de contenedores
+## Árbol de contenedores
 JFrame (BorderLayout)
  ├─ NORTH: headerPanel (FlowLayout)
  │    └── JLabel “Gestor de Usuarios”
