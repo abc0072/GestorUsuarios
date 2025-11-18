@@ -5,38 +5,6 @@ Wireframe dibujado
 👉 Pon aquí tu foto. Yo describo lo que debes mostrar:
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Árbol de contenedores
 JFrame (BorderLayout)
  ├─ NORTH: headerPanel (FlowLayout)
@@ -71,79 +39,15 @@ JFrame (BorderLayout)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Capturas necesarias
 Vista general de la ventana
 
 Imagen 1
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Ventana redimensionada
 
 Imagen 2
-
-
 
 
 Pestaña “Resumen” del JTabbedPane
@@ -152,10 +56,6 @@ Imagen 3
 Pestaña “Logs” del JTabbedPane
 
 Imagen 4
-
-
-
-
 
 
 Diálogo modal de confirmación
