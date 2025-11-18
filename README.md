@@ -1,4 +1,4 @@
-##Wireframe dibujado
+## Wireframe dibujado
 
 
 (Captura requerida: foto o dibujo de tu wireframe en papel)
@@ -39,7 +39,7 @@ JFrame (BorderLayout)
 
 
 
-##Capturas necesarias
+## Capturas necesarias
 Vista general de la ventana
 
 Imagen 1
@@ -63,7 +63,7 @@ Diálogo modal de confirmación
 Imagen 5
 
 
-##Mini tabla con las propiedades clave usadas
+## Mini tabla con las propiedades clave usadas
 
 
 Zona/Componente
