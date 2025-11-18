@@ -6,87 +6,36 @@
 
 
 ## Árbol de contenedores
-JFrame (BorderLayout)
- ├─ NORTH: headerPanel (FlowLayout)
- │    └── JLabel “Gestor de Usuarios”
- │
- ├─ WEST: navPanel (GridLayoutManager 5x1)
- │    ├── JButton Dashboard
- │    ├── JButton Usuarios
- │    ├── JButton Informes
- │    ├── JButton Ajustes
- │    └── JButton Ayuda
- │
- ├─ CENTER: formPanel (GridBagLayout)
- │    ├── JLabel + JTextField (Nombre)
- │    ├── JLabel + JTextField (Email)
- │    ├── JLabel + JComboBox (Rol)
- │    ├── JLabel + JCheckBox (Activo)
- │    └── JLabel + JScrollPane + JTextArea (Notas)
- │
- │
- │
- ├─ EAST: previewPanel (BorderLayout)
- │    └── JTabbedPane
- │          ├── Tab “Resumen” (JTextArea readonly)
- │          └── Tab “Logs” (JList)
- │
- └─ SOUTH: buttonBar (FlowLayout RIGHT)
-       ├── JButton Cancelar
-       ├── JButton Limpiar
-       └── JButton Guardar
-
-
-
+<img width="291" height="442" alt="image" src="https://github.com/user-attachments/assets/29de2302-7891-4cf5-9f3a-85e1e9f27d54" />
 
 ## Capturas necesarias
 Vista general de la ventana
 
-Imagen 1
-
+<img width="470" height="258" alt="image" src="https://github.com/user-attachments/assets/fff66f09-8219-43d0-bb24-1c8cb64c1bdc" />
 
 Ventana redimensionada
 
-Imagen 2
-
+<img width="609" height="386" alt="image" src="https://github.com/user-attachments/assets/72d323f7-2211-432d-a0f4-f6481c169f77" />
 
 Pestaña “Resumen” del JTabbedPane
 
-Imagen 3
+<img width="470" height="258" alt="image" src="https://github.com/user-attachments/assets/b4231e95-af29-476c-a315-10cb0d3aa810" />
+
 Pestaña “Logs” del JTabbedPane
 
-Imagen 4
-
+<img width="474" height="263" alt="image" src="https://github.com/user-attachments/assets/280e3c70-abe6-4013-a358-692c623c2d7d" />
 
 Diálogo modal de confirmación
 
-Imagen 5
+<img width="472" height="261" alt="image" src="https://github.com/user-attachments/assets/917dd023-3fa3-4ba7-ba81-9f8fb7415585" />
+
 
 
 ## Mini tabla con las propiedades clave usadas
 
 
-Zona/Componente
-Layout
-Propiedades clave
-Root panel
-BorderLayout
-Distribuye NORTH/WEST/CENTER/EAST/SOUTH
-Header
-FlowLayout
-alignment = CENTER, gap=5
-Navegación
-GridLayoutManager (5x1)
-Same-size-horizontally, botones iguales
-Formulario
-GridBagLayout
-insets=5, anchor=WEST, fill=HORIZONTAL/BOTH, weightx=1 en inputs, weighty=1 en textarea
-Panel derecho
-BorderLayout
-Preferred width ~260 px, JTabbedPane en CENTER
-Botonera
-FlowLayout RIGHT
-Botones alineados a la derecha
+<img width="740" height="364" alt="image" src="https://github.com/user-attachments/assets/82c4c361-7cf1-4667-a72b-25034723e882" />
+
 
 
 
