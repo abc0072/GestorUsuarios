@@ -5,10 +5,7 @@ Al pulsar el botón de guardar, aparecera un cuadro que mostrará el mensaje "¿
 
 ## Wireframe dibujado
 
-
-(Captura requerida: foto o dibujo de tu wireframe en papel)
-👉 Pon aquí tu foto. Yo describo lo que debes mostrar:
-
+<img width="515" height="427" alt="image" src="https://github.com/user-attachments/assets/e0b6b537-24b7-411a-a9fa-8f1e59ceb8be" />
 
 ## Árbol de contenedores
 <img width="291" height="442" alt="image" src="https://github.com/user-attachments/assets/29de2302-7891-4cf5-9f3a-85e1e9f27d54" />
